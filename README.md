@@ -5,8 +5,8 @@
 ---
 ## 📺 Youtube 시연 영상 (사진을 클릭하면 영상 재생)
 
-<a href="https://youtu.be/7KRCRfDVn_E">
-  <img src="https://img.youtube.com/vi/7KRCRfDVn_E/hqdefault.jpg" width="600px">
+<a href="https://youtu.be/5PipfmS6rMY">
+  <img src="https://img.youtube.com/vi/5PipfmS6rMY/hqdefault.jpg" width="600px">
 </a>
 
 ---
@@ -26,11 +26,40 @@
 |--------|--------------|-------------|
 | <img src="https://github.com/user-attachments/assets/fe86fd95-fcfd-40d0-899a-e01683a7d690" width="200px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg" width="200px"> | <img src="https://github.com/user-attachments/assets/0a791965-1cdd-47bd-a8e6-ab88660c91c9" width="200px"> |
 
+## 실물 회로 사진
+---
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b67f880a-3e50-420a-98b6-bfa86cda876b" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/14b94bdf-4e68-4e8d-aaf5-43ee1cefa4f7" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ff36948a-9a96-4cd4-9f8b-faa148b2de80" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0726f9ef-0bd9-426c-bef6-f0210d75eb17" width="200"/></td>
+  </tr>
+</table>
+
+# 짧은 시연영상
+---
+<table>
+  <tr>
+    <td>
+      <a href="https://youtube.com/shorts/spuMrNXNdfk?feature=share">
+        <img src="https://img.youtube.com/vi/spuMrNXNdfk/hqdefault.jpg" width="250px">
+      </a>
+    </td>
+    <td>
+      <a href="https://youtube.com/shorts/Rbt6Wvomx9I?feature=share">
+        <img src="https://img.youtube.com/vi/Rbt6Wvomx9I/hqdefault.jpg" width="250px">
+      </a>
+    </td>
+    <td>
+      <a href="https://youtube.com/shorts/QOnhlJ7e9qI?feature=share">
+        <img src="https://img.youtube.com/vi/QOnhlJ7e9qI/hqdefault.jpg" width="250px">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
-
-
-
 ## ⚙️ 시스템 개요
 
 | 채널 | 제어 항목 | 설명 |
