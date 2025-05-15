@@ -3,7 +3,13 @@
 > **조종기를 활용해 3색 LED 밝기 및 색상 변경, 전체 ON/OFF 제어 시스템**
 
 ---
+## 📺 Youtube 시연 영상 (사진을 클릭하면 영상 재생)
 
+<a href="https://youtu.be/7KRCRfDVn_E">
+  <img src="https://img.youtube.com/vi/7KRCRfDVn_E/hqdefault.jpg" width="600px">
+</a>
+
+---
 ## 📌 프로젝트 목적
 
 이 프로젝트는 **조종기의 입력 신호를 수신기로 받아서 실시간으로 LED 색상 및 밝기를 제어**를 구현하는 것이 목적입니다.
