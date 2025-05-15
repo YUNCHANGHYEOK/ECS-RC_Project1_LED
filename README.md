@@ -146,10 +146,8 @@ if (ch6_pulse >= 1800) {
   analogWrite(blue2Pin, 0);
 }
 ```
-시리얼 출력 예시
+### 시리얼 출력 예시
 아래 예시 이미지들은 시리얼 모니터에서 출력된 데이터를 시각화한 것입니다:
-
-## 🎛 시리얼 출력 예시
 
 - **HSV 밝기 조절 예시**  
   <img src="https://github.com/user-attachments/assets/c9c89db6-565e-4d52-adde-b92925dbbd83" width="400px">
@@ -159,7 +157,6 @@ if (ch6_pulse >= 1800) {
 
 - **ON/OFF 상태 확인**  
   <img src="https://github.com/user-attachments/assets/d0229c99-99e6-4b97-9f5f-5e87155a02df" width="400px">
-
 ## 🌈 기존 RGB 방식 vs HSV 방식 비교 설명
 
 색상을 프로그래밍으로 제어할 때 가장 많이 사용하는 두 가지 방식은 **RGB**와 **HSV**입니다.  
