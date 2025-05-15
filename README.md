@@ -127,14 +127,14 @@ ON/OFF 상태 확인
 ![onoff](https://github.com/user-attachments/assets/d0229c99-99e6-4b97-9f5f-5e87155a02df)
 
 
-🧪 테스트 결과 및 개선점
+## 🧪 테스트 결과 및 개선점
 ✅ PWM 수신 값 안정적 인식 확인 (1000~2000us 범위 정확히 매핑됨)
 
 ✅ 색상 전환 부드럽고 빠름, LED 반응 실시간 적용
 
 ⚠️ 간헐적 떨림 존재 → PWM 필터링 및 low-pass filter 필요 가능성
 
-🔧 향후 개선 사항:
+## 🔧 향후 개선 사항:
 OLED 디스플레이로 색상 및 밝기 시각화
 
 EEPROM 저장 기능 (전원 OFF 후 마지막 상태 유지)
