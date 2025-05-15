@@ -91,9 +91,9 @@ void setup() {
 }
 
 void loop() {
-  // CH3 → 색상 값(Hue)을 0~270도로 변환
-  float hue = map(ch3_pulse, 1000, 2000, 0, 270);
-  hue = constrain(hue, 0, 270);
+  // CH3 → 색상 값(Hue)을 0~360도로 변환
+  float hue = map(ch3_pulse, 1000, 2000, 0, 360);
+  hue = constrain(hue, 0, 360);
 
   int r = 0, g = 0, b = 0;
   hsvToRgb(hue, 1.0, 1.0, r, g, b);  // HSV 색상 → RGB 값 계산
